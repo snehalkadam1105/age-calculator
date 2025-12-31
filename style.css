@@ -72,7 +72,6 @@ button {
   font-size: 0.95rem;  
   font-weight: 600;
   cursor: pointer;
-  transition: background 0.3s, transform 0.2s, border-radius 0.3s;
 }
 
 button:hover {
